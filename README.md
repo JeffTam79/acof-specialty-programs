@@ -33,7 +33,7 @@ ACOF's current website provides general information about its services, and ther
 - Establish collaborative relationships with other social service agencies
 - Build community ties
 
-Moreover, to align with the recent developments and the increased use of Artificial Intelligence (AI), as a part of his Honors College Thesis Project, Jeffrey Tam, guided by his thesis advisor, Dr. Jose Ortiz, has taken on this research to demonstrate the viability and business use case of how AI can contribute to website development for nonprofits like ACOF.
+Moreover, to align with the recent developments and the increased use of Artificial Intelligence (AI), as a part of his Honors College Thesis Project, **Jeffrey Tam**, guided by his thesis advisor, **Dr. Jose Ortiz**, has taken on this research to demonstrate the viability and business use case of how AI can contribute to website development for nonprofits like ACOF.
 
 ## Jeffrey's Honors College Thesis
 **Thesis Title:** Business Perspectives on the Latest Trends in Artificial Intelligence: AI-Generated Content for Nonprofit Websites
