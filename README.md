@@ -1,6 +1,6 @@
 # A Community of Friends: Specialty Programs Website
 **Team Members:** Jeffrey Tam, Hugo Romero Flores, Hanson Liew
-***Faculty Advisor:*** Dr. Jose Ortiz
+**Faculty Advisor:** Dr. Jose Ortiz
 
 ## About ACOF:
 
