@@ -8,4 +8,4 @@
 - [Wireframe & Mockup](https://www.figma.com/design/dHkmAvnTFz94JSMtDZ0xw0/CIS-3610-01--ACOF-Website-Design---Team-6?node-id=0-1&t=EaRAzolXGO5XOwVt-1)
 
 ## About ACOF:
-<p style="text-align: center"><img src=""></p>
+<p style="text-align: center"><img src="assets/Media Kit/ACOF LOGOS/ACOF_House_LOGO-DkBlueBlack.png"></p>
