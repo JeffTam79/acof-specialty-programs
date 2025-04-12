@@ -1,6 +1,6 @@
 # A Community of Friends: Specialty Programs Website
 **Team Members:** Jeffrey Tam, Hugo Romero Flores, Hanson Liew<br>
-**Faculty Advisor:** Dr. Jose Ortiz
+**Faculty/Thesis Advisor:** Dr. Jose Ortiz
 
 ## Project Documentation
 - [Site Narrative](https://docs.google.com/document/d/1f73aA8GOSWeRItQjlrbDRrdIr4XeAVUH9LCmNYno9DA/edit?usp=sharing)
@@ -13,7 +13,7 @@
 "A Community of Friends (ACOF) is a 501(c)(3) organization that develops, owns, and manages affordable rental housing, with the mission of ending homelessness through the provision of quality Permanent Supportive Housing (PSH) for people with mental illness. Guided by the Housing First approach, ACOF ensures that people experiencing chronic homelessness are offered immediate access to safe, stable housing without preconditions. From there, we deliver integrated support services that promote long-term stability, wellness, and personal growth—creating a foundation for individuals and families to rebuild their lives with dignity and purpose."
 
 ## Objective & Purpose
-ACOF's current website provides general information about its services, and there is a need to enhance its online presence by showcasing its specialty programs in greater detail. Therefore, the objective and purpose of this project is to develop a new specialty programs website that will serve as a platform to promote the following programs:
+ACOF's current website provides general information about its services, and there is a need to enhance its online presence by showcasing its specialty programs in greater detail. Therefore, the objective and purpose of this project is to develop a new specialty programs website that will serve as a platform to promote the following programs *with the help of AI-generated content (AIGC)*:
 
 1. Children's Program
 - Offers activities for after-school enrichment.
