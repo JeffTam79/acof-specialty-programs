@@ -1,4 +1,4 @@
-# A Community of Friends (ACOF): Specialty Programs Website
+# A Community of Friends: Specialty Programs Website
 **Team Members:** Jeffrey Tam, Hugo Romero Flores, Hanson Liew
 
 ## Project Documentation
