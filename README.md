@@ -13,7 +13,7 @@
 "A Community of Friends (ACOF) is a 501(c)(3) organization that develops, owns, and manages affordable rental housing, with the mission of ending homelessness through the provision of quality Permanent Supportive Housing (PSH) for people with mental illness. Guided by the Housing First approach, ACOF ensures that people experiencing chronic homelessness are offered immediate access to safe, stable housing without preconditions. From there, we deliver integrated support services that promote long-term stability, wellness, and personal growth—creating a foundation for individuals and families to rebuild their lives with dignity and purpose."
 
 ## Objective & Purpose
-The objective of this project is to develop a new specialty programs website that will serve as a platform to promot the following programs:
+ACOF's current website provides general information about its services, and there is a need to enhance its online presence by showcasing its specialty programs in greater detail. Therefore, the objective and purpose of this project is to develop a new specialty programs website that will serve as a platform to promote the following programs:
 
 1. Children's Program
 - Offers activities for after-school enrichment.
@@ -32,4 +32,12 @@ The objective of this project is to develop a new specialty programs website tha
 - Nurture interpersonal relationships 
 - Establish collaborative relationships with other social service agencies
 - Build community ties
+
+Moreover, to align with the recent developments and the increased use of Artificial Intelligence (AI), as a part of his Honors College Thesis Project, Jeffrey Tam, guided by his thesis advisor, Dr. Jose Ortiz, has taken on this research to demonstrate the viability and business use case of how AI can contribute to website development for nonprofits like ACOF.
+
+## Jeffrey's Honors College Thesis
+**Thesis Title:** Business Perspectives on the Latest Trends in Artificial Intelligence: AI-Generated Content for Nonprofit Websites
+
+**Abstract:**<br>
+The rise in artificial intelligence in recent years has generated significant renewed interest and accelerated development as new models and abilities are developed and tested. Nonprofit organizations struggle to maintain a competitive digital presence due to limited resources, technical expertise, and the high costs of content creation. AI-generated content (AIGC) presents a potential solution, yet nonprofits may still find it challenging to implement. This thesis examines how nonprofits, like A Community of Friends (ACOF), can leverage prompt engineering strategies to optimize AI-generated content to be accurate, relevant, and aligned with their business goals. Through experimental testing of prompt engineering techniques, a consideration of the sociotechnical aspects of AI use, and applying insights from existing literature on AI adoption, a strategy will be developed to aid nonprofits in integrating AIGC to help gain a competitive advantage. Ultimately, as the findings suggest, structured and well-written prompts significantly improve AI output quality, allowing nonprofits a new opportunity to compete against large businesses despite their existing limitations. Therefore, in the business context—particularly for nonprofits—the development of a strategy for prompt engineering could be significantly beneficial for the creation of websites with AI-generated content to push forward and enhance their abilities to promote their initiatives. 
 
