@@ -3,7 +3,53 @@ body {
 }
 
 #pageContainer {
-    height: 100dvh;
+    height: 695dvh;
     width: 100dvw;
+    display: grid;
+    grid-template-rows: 15dvh 85dvh 85dvh 30dvh 80dvh 250dvh 50dvh 50dvh 50dvh;
     background-color: antiquewhite;
+}
+
+#navContainer {
+    background-color: aquamarine;
+    text-decoration: none;
+    display: flex; align-items: center; justify-content: space-between;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+#bannerSection {
+    background-color: black;
+}
+
+#heroSection {
+    background-color: brown;
+}
+
+#missionSection {
+    background-color: chocolate;
+}
+
+#whoWeServe {
+    background-color: cornflowerblue;
+}
+
+#bodySection {
+    background-color: darkgreen;
+}
+
+#supportSection {
+    background-color: darkorchid;
+}
+
+#impactSection {
+    background-color: darkslategrey;
+}
+
+#footerSection {
+    background-color: lightblue;
 }
