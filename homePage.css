@@ -3,10 +3,10 @@ body {
 }
 
 #pageContainer {
-    height: 695dvh;
+    height: 655dvh;
     width: 100dvw;
     display: grid;
-    grid-template-rows: 15dvh 85dvh 85dvh 30dvh 80dvh 250dvh 50dvh 50dvh 50dvh;
+    grid-template-rows: 15dvh 85dvh 60dvh 40dvh 40dvh 250dvh 50dvh 50dvh 50dvh;
     background-color: antiquewhite;
 }
 
@@ -24,26 +24,69 @@ li {
 
 #bannerSection {
     background-color: black;
+    display: flex; align-items: center; justify-content: center;
 }
 
-#heroSection {
+#bannerText {
+    color: white;
+    display: flex; align-items: center; justify-content: center; text-align: center;
+}
+
+#aboutSection {
     background-color: brown;
+    padding: 0 40px 0 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 #missionSection {
     background-color: chocolate;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; justify-content: space-around; text-align: center;
+}
+
+.missionPad {
+    margin: 0;
 }
 
 #whoWeServe {
     background-color: cornflowerblue;
+    padding: 0 40px 0 40px;
+}
+
+#serveCardSection {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 #bodySection {
     background-color: darkgreen;
+    padding: 0 40px 0 40px;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 10% 1fr 1fr 1fr;
+}
+
+.bodyRowElement {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.bodyRowElementReverse {
+    display: grid;
+    grid-template-columns: 60% 40%;
 }
 
 #supportSection {
     background-color: darkorchid;
+}
+
+#supportBanner {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 #impactSection {
@@ -52,4 +95,8 @@ li {
 
 #footerSection {
     background-color: lightblue;
+}
+
+h1 {
+    color: white;
 }
