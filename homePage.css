@@ -6,13 +6,14 @@ body {
     height: 655dvh;
     width: 100dvw;
     display: grid;
-    grid-template-rows: 15dvh 85dvh 60dvh 40dvh 40dvh 250dvh 50dvh 50dvh 50dvh;
+    grid-template-rows: 15dvh 85dvh 60dvh 40dvh 40dvh 250dvh 50dvh 50dvh 65dvh;
     background-color: antiquewhite;
 }
 
 #navContainer {
     background-color: aquamarine;
     text-decoration: none;
+    padding: 0 40px 0 40px;
     display: flex; align-items: center; justify-content: space-between;
 }
 
@@ -82,6 +83,7 @@ li {
 
 #supportSection {
     background-color: darkorchid;
+    padding: 0 40px 0 40px;
 }
 
 #supportBanner {
@@ -89,12 +91,64 @@ li {
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
+.supportBannerElement {
+    text-align: center;
+}
+
 #impactSection {
     background-color: darkslategrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; align-items: center;
+    
+}
+
+.impactCenter {
+    text-align: center;
+}
+
+#impactStatsTop {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-around;
+}
+
+#impactStatsBottom {
+    display: grid;
+    width: 70%;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-around;
+}
+
+.impactContentMargin {
+    margin: 0;
 }
 
 #footerSection {
     background-color: lightblue;
+    height: 100%;
+    padding: 0 40px 0 40px;
+    display: grid;
+    grid-template-rows: 95% 5%;
+}
+
+#footerContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#footerList {
+    display: flex;
+    height: 90%;
+    flex-direction: column;
+    justify-content: space-around; text-align: center;
+}
+
+.footerCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 h1 {
