@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+}
+
+#pageContainer {
+    height: 655dvh;
+    width: 100dvw;
+    display: grid;
+    grid-template-rows: 15dvh 85dvh 60dvh 40dvh 40dvh 250dvh 50dvh 50dvh 65dvh;
+    background-color: antiquewhite;
+}
+
+#navContainer {
+    background-color: aquamarine;
+    text-decoration: none;
+    padding: 0 40px 0 40px;
+    display: flex; align-items: center; justify-content: space-between;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 25px;
+}
