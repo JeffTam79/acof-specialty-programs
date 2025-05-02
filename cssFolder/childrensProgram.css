@@ -6,8 +6,7 @@ body {
     height: 655dvh;
     width: 100dvw;
     display: grid;
-    grid-template-rows: 15dvh 85dvh 60dvh 40dvh 40dvh 250dvh 50dvh 50dvh 65dvh;
-    background-color: antiquewhite;
+    grid-template-rows: .2fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 #navContainer {
@@ -21,4 +20,14 @@ li {
     list-style: none;
     display: inline-block;
     margin-right: 25px;
+}
+
+#bannerSection {
+    background-color: black;
+}
+
+#overviewSection {
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
