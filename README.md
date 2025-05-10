@@ -5,7 +5,9 @@
 ## Project Documentation
 - [Site Narrative](https://docs.google.com/document/d/1f73aA8GOSWeRItQjlrbDRrdIr4XeAVUH9LCmNYno9DA/edit?usp=sharing)
 
-- [Wireframe & Mockup](https://www.figma.com/design/dHkmAvnTFz94JSMtDZ0xw0/CIS-3610-01--ACOF-Website-Design---Team-6?node-id=0-1&t=EaRAzolXGO5XOwVt-1)
+- [Wireframe](https://www.figma.com/proto/dHkmAvnTFz94JSMtDZ0xw0/CIS-3610-01--ACOF-Website-Design---Team-6?node-id=1-2&p=f&t=hCKjix9FO4AQyBax-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
+- [Mockup](https://www.figma.com/proto/dHkmAvnTFz94JSMtDZ0xw0/CIS-3610-01--ACOF-Website-Design---Team-6?node-id=855-1118&p=f&t=t5GkLpugHuyfuvl9-0&scaling=min-zoom&content-scaling=fixed&page-id=22%3A2)
 
 ## About ACOF:
 <p align="center"><img src="assets/ACOF_House_LOGO-DkBlueBlack_357x134.png" alt="The official ACOF logo"></p>
